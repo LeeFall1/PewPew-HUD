@@ -4,9 +4,12 @@ PewPew Hud is a HUD designed for gunner seats and gives gunners the ability to d
 There are also a few more features like contact indicator and many more. Perfect for Pilot & Gunner combo (remote controller and gunner seat)
 
 
--Install- Connect from gunner seat to core (core),radar(radar_1),weapons,(weapon_1 etc),switch(contact). then get the "Contact Indicator For PB.json" and paste it into a programming board. 
+-Install- 
+
+Connect from gunner seat to core (core),radar(radar_1),weapons,(weapon_1 etc),switch(contact). then get the "Contact Indicator For PB.json" and paste it into a programming board. 
 Link from the programing board to the switch (contact). This board checks the state of the switch. When a ship enters your radar, the switch will activate and the programming board will see this new state and activate the contact indicator. 
 This board must be activated with the F key while your using the seat. You can also add light indicators on your ship by connecting a light (verticle L) to the switch (link switch to light) and set it to blinking also setting the desired RGB and flashin intervals.
+
 You can also add a relay, and then the lights if you want up to 10 or more.
 
 -Features-
