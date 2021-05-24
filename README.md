@@ -23,10 +23,14 @@ Damage Report ,
 Weapon Widget , 
 Periscope , 
 Target Speed ,
-Target Core Size ,
+Target Distance ,
+Target Voxel Mass ,
+Target Threat Level,
+Target Has: Radar,Engine(not dead),AGG,Rockets.
 NSOF report ,
 Hit Probablilty ,
 Contact Indicator ,
+
 
 
 
@@ -75,6 +79,8 @@ Diplays on the HUD and/or lights when a ship enters radar so you dont miss it.
 
 
 -To-Do List-
+
+Sound Alerts 
 
 Overhaul UI
 
