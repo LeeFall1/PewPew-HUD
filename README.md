@@ -56,11 +56,14 @@ Once a target is identified this will show you the probability of shots hitting.
 Contact Indicator:
 Diplays on the HUD and/or lights when a ship enters radar so you dont miss it.
 
-Contributers:
-LeeFall
-Sleim22
-endmyion
 
+To-Do List
+
+Overhaul UI
+Chase
+Transponders
+Radar enter ship name, currently "unreachable" (that does not crash). On "Ship left" does display name.
+Store ship ID's and ship names to DB and display previous ship names in console on radar.enter()
 
 
 
