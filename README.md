@@ -12,6 +12,9 @@ This board must be activated with the F key while your using the seat. You can a
 
 You can also add a relay, and then the lights if you want up to 10 or more.
 
+
+
+
 -Features-
 
 3rd Person:
@@ -25,8 +28,16 @@ NSOF report ,
 Hit Probablilty ,
 Contact Indicator ,
 
+
+
+
+
 -Hint-
 In third person, right click your target and select indentify. Once Identified you can again right click on the target and Engage or unindentify target. Although it is recommended to start each gun manually as making them all fire at once does not do the server any favours and will reult in many misses.
+
+
+
+
 
 -Break Down-
 Damage Report
@@ -55,6 +66,12 @@ Once a target is identified this will show you the probability of shots hitting.
 
 Contact Indicator:
 Diplays on the HUD and/or lights when a ship enters radar so you dont miss it.
+
+
+
+
+
+
 
 
 -To-Do List-
