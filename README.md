@@ -47,6 +47,9 @@ In third person, right click your target and select indentify. Once Identified y
 Damage Report
 Displays a UI that shows what is damaged and where. Alt+1/Alt+2 to change views.
 
+Transponder support
+Shows friendly ships with the same transponder ID into a seperate widget (Friendly)
+
 Radar:
 Shows targets within a 2su range. Right click on a ship in the widget to see the options available.
 
@@ -85,8 +88,6 @@ Sound Alerts
 Overhaul UI
 
 Chase
-
-Transponders
 
 Radar enter ship name, currently "unreachable" (that does not crash). On "Ship left" does display name.
 
