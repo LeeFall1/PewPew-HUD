@@ -74,6 +74,10 @@ Once a target is identified this will show you the probability of shots hitting.
 Contact Indicator:
 Diplays on the HUD and/or lights when a ship enters radar so you dont miss it.
 
+Contact Sound alert:
+
+Activate a sound when a ship enters radar range
+
 
 
 
@@ -82,8 +86,6 @@ Diplays on the HUD and/or lights when a ship enters radar so you dont miss it.
 
 
 -To-Do List-
-
-Sound Alerts 
 
 Overhaul UI
 
