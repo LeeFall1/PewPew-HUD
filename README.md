@@ -3,6 +3,8 @@
 PewPew Hud is a HUD designed for gunner seats and gives gunners the ability to do everything you can do in the boring/buggy Gunner UI, but in 3rd person. 
 There are also a few more features like contact indicator and many more. Perfect for Pilot & Gunner combo (remote controller and gunner seat)
 
+Sound Framework Download
+https://github.com/ZarTaen/DU_logfile_audioframework/releases
 
 -Install- 
 
